@@ -7,3 +7,4 @@ This repo contains examples for integrating with some third-party signer service
 - [capsule](./capsule)
 - [magic](./magic)
 - [privy](./privy)
+- [dynamic](./dynamic)

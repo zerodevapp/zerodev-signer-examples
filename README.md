@@ -1,6 +1,6 @@
 # ZeroDev Signer Examples
 
-This repository contains examples of how to use various services as a signer for the zerodev sdk.
+This repo contains examples for integrating with some third-party signer services.  For a full list, please refer to [our documentation](https://docs.zerodev.app/sdk/signers/intro).
 
 ## Examples
 
